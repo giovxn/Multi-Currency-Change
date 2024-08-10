@@ -17,15 +17,15 @@ Entering the names and sums for every person. presenting a menu with choices for
 ============================================================================================================
 
 How to use the program:
-•	Once you are presented with a welcome test, you can either enter 1 or 2 as a choice, don’t forget to click enter when you input your number
-o	If you chose 2, you must enter denominations your preferred currency from lowest to highest. At the end you can also name your currency, then press enter to continue.
-•	Once you have selected or finished entering your desired denominations, you must enter at least 10 names and amounts where names must be unique from the previous entry you entered and all amounts must be a multiple of 5.
-•	After each entry, you are asked if you’d like to enter more entries.
-•	After entering names and amounts, you are presented with a menu of what you would like to do with the entered data. Enter a value from 1 to 6 inclusive of what menu choice you would like.
-o	If you chose 1, which is search name, you must enter a name existing in your entries. 
-•	Ones you are done, press 6 and you have successfully used the program!
+- Once you are presented with a welcome test, you can either enter 1 or 2 as a choice, don’t forget to click enter when you input your number
+- If you chose 2, you must enter denominations your preferred currency from lowest to highest. At the end you can also name your currency, then press enter to continue.
+- Once you have selected or finished entering your desired denominations, you must enter at least 10 names and amounts where names must be unique from the previous entry you entered and all amounts must be a multiple of 5.
+- After each entry, you are asked if you’d like to enter more entries.
+- After entering names and amounts, you are presented with a menu of what you would like to do with the entered data. Enter a value from 1 to 6 inclusive of what menu choice you would like.
+- If you chose 1, which is search name, you must enter a name existing in your entries.
+- Ones you are done, press 6 and you have successfully used the program!
 
 How to get preset data (hard coded):
-•	Press 1 or 2 for which mode you would like.
-•	In the “Enter name: “ section please type “test” (this works for both mode 1 or 2)
-•	The list of names are shown in the TestChange class (e.g. Gio, Alex, Max).
+- Press 1 or 2 for which mode you would like.
+- In the “Enter name: “ section please type “test” (this works for both mode 1 or 2)
+- The list of names are shown in the TestChange class (e.g. Gio, Alex, Max).
