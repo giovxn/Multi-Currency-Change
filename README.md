@@ -7,12 +7,12 @@ The primary features consist of:
 Asks user if they would like to use the default currency (Dirhams) or manually enter in their own currency notes.
 
 Entering the names and sums for every person. presenting a menu with choices for: 
-•	Enter a name, and the change will be seen for that specific person.
-•	Locate the name with the least amount and show it together with the matching change.
-•	Locate the name with the largest amount and the matching change, then display it.
-•	Determine and show the total amount of cash notes in each denomination. 
-•	Compute and show the total for each denomination.
-•	Close the software.  
+- Enter a name, and the change will be seen for that specific person.
+- Locate the name with the least amount and show it together with the matching change.
+- Locate the name with the largest amount and the matching change, then display it.
+- Determine and show the total amount of cash notes in each denomination. 
+- Compute and show the total for each denomination.
+- Close the software.  
 
 ============================================================================================================
 
